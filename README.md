@@ -1,0 +1,1 @@
+# js-star-rating
